@@ -9,8 +9,8 @@ build/
 .DS_Store
 
 # Data caches (too large for git)
-data_cache/
-data/
+/data_cache/
+/data/
 
 # IDE
 .vscode/
