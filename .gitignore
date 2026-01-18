@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Data caches (too large for git)
+data_cache/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Experiments output
+experiments/*.png
+experiments/*.npy
